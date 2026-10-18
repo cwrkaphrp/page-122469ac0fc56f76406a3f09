@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "62d9fc58b41a5cb26732a649",
+  "owner": "cwrkaphrp",
+  "repo": "page-122469ac0fc56f76406a3f09",
+  "title": "心蓝云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "122469ac0fc56f76406a3f09",
+      "a": "心蓝云",
+      "b": "",
+      "entity": "心蓝云",
+      "brand": "心蓝云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "14a1167fd564da8579691fe2c7caaee86a764d0a10baec15f00f31e8798dacdf",
+      "content": {
+        "keyword1": "心蓝云",
+        "keyword2": "",
+        "primary_entity": "心蓝云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "心蓝云陪你把琐碎念头收进安静的一页。这里没有口号堆砌，只有怎么开始、怎么选档、以及你可能想问的那些小事。",
+          "AI_DESCRIPTION": "心蓝云陪你把琐碎念头收进安静的一页。这里没有口号堆砌，只有怎么开始、怎么选档、以及你可能想问的那些小事。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0;background:#f4f4f2;color:#161616;font-family:Georgia,\"Songti SC\",\"Noto Serif SC\",serif}\na{color:#161616;text-decoration:none}\na:hover{color:#c45c26}\n.wrap{display:flex;min-height:100vh}\nnav.side{width:168px;flex-shrink:0;border-right:4px solid #161616;background:#fff;padding:28px 16px;position:sticky;top:0;height:100vh}\nnav.side p{margin:0 0 22px;font-size:13px;letter-spacing:.18em;text-transform:uppercase}\nnav.side ol{margin:0;padding:0;list-style:none}\nnav.side li{margin:0 0 14px}\nnav.side a{display:block;border:4px solid #161616;padding:8px 10px;font-size:14px}\nmain{flex:1;padding:0 8vw 80px}\nh1{font-size:clamp(40px,8vw,92px);line-height:.9;margin:0 0 18px;font-weight:700}\nh2{font-size:28px;margin:0 0 16px;border-bottom:4px solid #161616;display:inline-block;padding-bottom:6px}\nh3{font-size:18px;margin:0 0 8px}\n.hero{padding:48px 0 32px}\n.tl{border-left:4px solid #161616;margin:28px 0 0 8px;padding:0 0 8px 28px}\n.tl article{position:relative;margin:0 0 28px}\n.tl article:before{content:\"\";position:absolute;left:-38px;top:6px;width:14px;height:14px;background:#c45c26;border:4px solid #161616}\n.muted{color:#555;font-size:15px;line-height:1.75}\n.block{margin:56px 0}\n.card{border:4px solid #161616;background:#fff;padding:20px;margin:0 0 16px}\n.grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px}\n.badge{display:inline-block;background:#c45c26;color:#fff;padding:4px 10px;font-size:12px;letter-spacing:.08em;margin-bottom:10px}\n.plans{display:grid;grid-template-columns:1fr 1fr;gap:16px;align-items:stretch}\n.plans .full{grid-column:1/-1}\nul.plain{margin:8px 0 0;padding-left:18px;line-height:1.7}\n.chat{max-width:720px}\n.q,.a{border:4px solid #161616;padding:14px 16px;margin:0 0 12px;max-width:92%}\n.q{background:#fff;margin-right:auto}\n.a{background:#ecece8;margin-left:auto}\n.who{font-size:12px;color:#555;margin:0 0 6px}\n.steps{counter-reset:s}\n.steps li{border:4px solid #161616;padding:16px;margin:0 0 10px;list-style:none;background:#fff}\n.steps{padding:0}\nfooter{margin-top:48px;font-size:13px;color:#555}\n@media(max-width:820px){\n.wrap{display:block}\nnav.side{position:relative;height:auto;width:100%;border-right:none;border-bottom:4px solid #161616;display:flex;flex-wrap:wrap;gap:8px;align-items:center}\nnav.side ol{display:flex;flex-wrap:wrap;gap:8px}\nnav.side li{margin:0}\n.plans,.grid2{grid-template-columns:1fr}\nmain{padding:0 18px 64px}\n}\n</style><div class=\"wrap\">\n<nav class=\"side\" aria-label=\"目录\">\n<p>心蓝云</p>\n<ol>\n<li><a href=\"#top\">开场</a></li>\n<li><a href=\"#how\">怎么用</a></li>\n<li><a href=\"#plans\">档位</a></li>\n<li><a href=\"#clients\">客户端</a></li>\n<li><a href=\"#faq\">问问看</a></li>\n</ol>\n</nav>\n<main id=\"top\">\n<section class=\"hero\">\n<h1>心蓝云</h1>\n<p class=\"muted\">嗨。如果你也常把句子写在备忘录里然后忘了翻，心蓝云更像一张你愿意反复摊开的纸。下面这条时间线，是我建议你认识它的顺序——不赶，按着往下看就好。</p>\n<div class=\"tl\">\n<article>\n<h3>第一站 · 把名字放进心里</h3>\n<p class=\"muted\">心蓝云不是口号墙。它只是一个安静的落点：你来，写下今天还想记住的那几行，然后离开。</p>\n</article>\n<article>\n<h3>第二站 · 决定要多大的抽屉</h3>\n<p class=\"muted\">有人只需要随手记；有人要把一年的边角料都收好。档位是抽屉尺寸，不是身份徽章。</p>\n</article>\n<article>\n<h3>第三站 · 在常用的地方打开</h3>\n<p class=\"muted\">电脑、手机，哪边顺手就用哪边。没有强制安装清单，也没有“必须现在下载”的催促。</p>\n</article>\n<article>\n<h3>第四站 · 有疑问就问</h3>\n<p class=\"muted\">页面最下面是我们俩的对话口气。你问得碎一点也没关系。</p>\n</article>\n</div>\n</section>\n\n<section class=\"block\" id=\"how\">\n<h2>跟朋友讲一遍怎么开始</h2>\n<ol class=\"steps\">\n<li><h3>先想清楚你要记什么</h3><p class=\"muted\">购物清单、梦、读书摘句，都行。心蓝云不帮你规定主题，只给你一块干净的版面。</p></li>\n<li><h3>选一个对得起自己节奏的档</h3><p class=\"muted\">月付或年付看你自己。年付只是少跑几次收银台，没有额外神话。</p></li>\n<li><h3>打开你手头已有的浏览器或应用入口</h3><p class=\"muted\">我们没有对外公布的官方安装包地址时，不会在这里塞一个假装能点的链接。找不到入口就先把这一页收进书签。</p></li>\n<li><h3>写完就合上</h3><p class=\"muted\">不必每天打卡。纸还在，你随时能回来。</p></li>\n</ol>\n</section>\n\n<section class=\"block\" id=\"plans\">\n<h2>两栏对照：日常 vs 再宽一点</h2>\n<p class=\"muted\">价格来自公开参考档，权益写成你真正会用到的空间与协作，而不是线路神话。右侧那张贴了推荐标记，只因为多数人写着写着会想多几个本子。</p>\n<div class=\"plans\">\n<div class=\"card\">\n<h3>基础版</h3>\n<p>¥15/月</p>\n<p class=\"muted\">按年付约 ¥150/年</p>\n<ul class=\"plain\">\n<li>一个主本，适合随手记</li>\n<li>大约三处常用设备轮流打开</li>\n<li>导出为纯文本，方便自己归档</li>\n<li>社区公开说明与互助问答</li>\n</ul>\n</div>\n<div class=\"card\">\n<div class=\"badge\">比较常被选</div>\n<h3>旗舰版</h3>\n<p>¥35/月</p>\n<p class=\"muted\">按年付约 ¥350/年</p>\n<ul class=\"plain\">\n<li>多个分本，工作与生活可以分开</li>\n<li>大约五处设备轮流打开</li>\n<li>标签与检索更细，方便年底翻看</li>\n<li>优先回复工单窗口（工作日）</li>\n</ul>\n</div>\n<div class=\"card full\">\n<h3>团队版（对照加宽）</h3>\n<p>¥85/月 · 按年付约 ¥850/年</p>\n<p class=\"muted\">适合小工作室共用目录。人数上限以开通时说明为准；这里不承诺专线、节点或客户经理编制——那些我们并没有可核对的官方材料。</p>\n<ul class=\"plain\">\n<li>共享目录与权限分组</li>\n<li>更多存储额度，按月结算</li>\n<li>可约定命名规则，减少互相覆盖</li>\n</ul>\n</div>\n</div>\n</section>\n\n<section class=\"block\" id=\"clients\">\n<h2>客户端这块，跟你说实话</h2>\n<div class=\"grid2\">\n<div class=\"card\">\n<h3>网页即可</h3>\n<p class=\"muted\">目前没有可核对的安装包或商店地址。请把 url 当作空着：不伪造下载。用你已经信任的浏览器打开书签即可。</p>\n</div>\n<div class=\"card\">\n<h3>系统范围</h3>\n<p class=\"muted\">兼容列表没有官方底稿，所以我不写“全平台秒开”。你手头能浏览网页的设备，先当它能读这一页。</p>\n</div>\n</div>\n</section>\n\n<section class=\"block\" id=\"faq\">\n<h2>常见问题，像聊天那样</h2>\n<div class=\"chat\">\n<article class=\"q\"><p class=\"who\">你</p><p>心蓝云到底是干什么的？听名字有点飘。</p></article>\n<article class=\"a\"><p class=\"who\">心蓝云</p><p>把它想成一朵不太爱说话的云：你把句子丢进去，它帮你收着。不是成绩单，也不是加速器广告。</p></article>\n<article class=\"q\"><p class=\"who\">你</p><p>基础版会不会很快不够用？</p></article>\n<article class=\"a\"><p class=\"who\">心蓝云</p><p>若你一周只写几段，基础版就很舒服。本子开始分叉、标签变密，再挪到旗舰版也不迟。</p></article>\n<article class=\"q\"><p class=\"who\">你</p><p>年付能随时改主意吗？</p></article>\n<article class=\"a\"><p class=\"who\">心蓝云</p><p>退款规则我们没有可引用的官方条款，所以我不打包票。选月付更灵活；年付适合你已经确定会写很久。</p></article>\n<article class=\"q\"><p class=\"who\">你</p><p>有没有 iOS / Android 安装包？</p></article>\n<article class=\"a\"><p class=\"who\">心蓝云</p><p>没有可靠来源时，下载地址就是空的。别从陌生人转发的压缩包里找“官方客户端”。</p></article>\n</div>\n</section>\n<footer>心蓝云 · 静态说明页 · 不代表未核实的服务承诺</footer>\n</main>\n</div>",
+          "hash": "0294122ff5c12313d1dc1eb12e5b3c4b22f43fe66522a7ce9fa0918408a6d7d3",
+          "seo": {
+            "title": "心蓝云｜把日子慢慢记下来",
+            "keywords": "心蓝云,日记空间,云端笔记,订阅说明,使用指引",
+            "description": "心蓝云陪你把琐碎念头收进安静的一页。这里没有口号堆砌，只有怎么开始、怎么选档、以及你可能想问的那些小事。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "6469",
+            "hero": "6 纵向时间线引入",
+            "palette": "10 黑白灰单色配一处强调色",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "5 两栏对照配推荐标记",
+            "faq_view": "5 对话气泡式问答",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yiyangtaobao.cn",
+    "host": "p-99f1190f25.yiyangtaobao.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "476b7a3e093e352c9c348f4fa040cf401f7c4b9d2e01f332c26d660d3d137b93",
+    "sitemap.xml": "15ecfda3d7053a75a53661886039be364f157083b6d89101a2006baacf4fc8ea",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a5f46f97c4b0b1c48a3db2a27a0bf65f3ab4db31ee483b614767ddddc7328dac",
+    "robots.txt": "e8a2cdca8e37880de1fab863992bbf95c1719a893c3d393890b75f1b29b553d2",
+    "44bedab881c75747d238ebb368900e21.txt": "158cf08d4b21c2c8b37ecbef772a7aeaefb2c9c58bd8b8b43af0079fd2cfb739"
+  },
+  "revision": "0fd642d43531da38a1940334b112a5a7f320da028d85e5eb56808a070aba6c4a"
+}
